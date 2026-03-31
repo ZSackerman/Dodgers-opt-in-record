@@ -1,3 +1,6 @@
-Dodgers text recipients:
-Zach - owner
-Consented 3/30/26
+This messaging flow is for personal use only.
+One recipient has opted in directly: the sender/owner of this service.
+Purpose: automated Los Angeles Dodgers home-game win alerts.
+Message frequency: up to a few messages per month.
+No marketing or third-party messaging.
+To stop messages, the recipient can disable the script or reply STOP if supported.
